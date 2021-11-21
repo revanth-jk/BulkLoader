@@ -11,6 +11,12 @@ will zip all files and upload as zipfile
 - If `AS_ZIP` is `False`:
 will send files one by one
 
+# Hosting 🖥
+
+### Deploying To Heroku ⚙
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/revanth-jk/BulkLoader)
+
 ## Telegram Support:
 
 [![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/xTeamBots)
